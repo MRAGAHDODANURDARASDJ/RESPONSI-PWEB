@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url(kamar2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card
+{
+    font-family: 'Cormorant SC', serif;
+}
+
+h1
+{
+    font-family: 'Cormorant SC', serif;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    background: rgb(94, 92, 87);
+}
+.text-muted
+{
+    font-size: 25px;
+}
+
