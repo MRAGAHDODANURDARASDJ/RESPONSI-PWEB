@@ -37,13 +37,13 @@
             </div>
         </div>
         <div class="card">
-            <a href="form.php"><img src="kost3.jpg" class="card-img-top" alt="kost3"></a>
+            <a href="form.php"><img src="kost4.jpg" class="card-img-top" alt="kost3"></a>
             <div class="card-body">
-            <h5 class="card-title">KAMAR LOWBUDGET</h5>
-            <p class="card-text">KAMAR LOWBUDGET tidak usah ditanya lagi kamar ini untuk kaum yang makan mie setiap harinya</p>
+            <h5 class="card-title">KAMAR AESTHETIC</h5>
+            <p class="card-text">KAMAR AESTHETIC merupakan kamar yang cocok bagi manusia yang menginginkan nilai ke estetikan disetiap kehidupannya. Mulai dari bangun tidur hingga tidur lagi harus memiliki nilai ke estetikan. Maka dari itu kami menghadirkan kamar ini yang cocok bagi anda yang Aesthetic</p>
             </div>
             <div class="card-footer">
-            <small class="text-muted">Rp30.000/bln</small>
+            <small class="text-muted">Rp999.999/bln</small>
             </div>
         </div>
         </div>
