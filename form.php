@@ -41,7 +41,7 @@
             <select class="form-control" name="kamar" id="kamar">
               <option>Kamar Pertalite</option>
               <option>Kamar Wibu</option>
-              <option>Kamar Low Budget</option>
+              <option>Kamar Aesthetic</option>
             </select>
             </div>
             <div class="form-group">
