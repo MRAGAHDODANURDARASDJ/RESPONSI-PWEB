@@ -28,7 +28,7 @@
 				<ul class="link-sidebar">
 					<li><b>Kost Pertalite</b><a href="beranda.php"><img src="kost1.jpg" alt="kost1" style="width:200px"></a></li>
 					<li><b>Kost Wibu</b><a href="beranda.php"><img src="kost2.jpg" alt="kost2" style="width:200px"></a></li>
-					<li><b>Kost lowbudget</b><a href="beranda.php"><img src="kost3.jpg" alt="kost3" style="width:220px"></a></li>
+					<li><b>Kost Aesthetic</b><a href="beranda.php"><img src="kost4.jpg" alt="kost3" style="width:220px"></a></li>
 				</ul>
 			</div>
 			<div id="footer">
